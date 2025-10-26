@@ -6,7 +6,6 @@ A fun and creative **CSS art project** where you build a cute penguin using **HT
 
 ## 🌐 Live Demo
 [Click here to view the live demo](https://priyadhar29.github.io/CSS_Penguin_Transform/)  
-*(Replace `#` with your GitHub Pages link once deployed)*
 
 ---
 
